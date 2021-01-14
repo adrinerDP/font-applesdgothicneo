@@ -1,0 +1,23 @@
+{
+  "name": "font-applesdgothicneo",
+  "version": "1.0.0",
+  "description": "Apple Sandoll Gothic Neo Webfont",
+  "keywords": [
+    "AppleSDGothicNeo"
+  ],
+  "homepage": "https://github.com/adrinerDP/font-applesdgothicneo",
+  "bugs": {
+    "url": "https://github.com/adrinerDP/font-applesdgothicneo/issues",
+    "email": "me@adrinerdp.co"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrinerDP/font-applesdgothicneo.git"
+  },
+  "author": "adrinerDP <me@adrinerdp.co> (https://adrinerdp.co)",
+  "main": "css/all.css",
+  "jsdelivr": "css/all.css",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
